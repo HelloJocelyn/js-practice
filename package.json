@@ -1,0 +1,30 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "practices of javascript,html,css,nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloJocelyn/js-practice.git"
+  },
+  "author": "jocelyn hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloJocelyn/js-practice/issues"
+  },
+  "homepage": "https://github.com/HelloJocelyn/js-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0",
+    "ws": "^7.1.0"
+  }
+}
